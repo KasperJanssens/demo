@@ -14,7 +14,7 @@ cabal-version:       >=1.8
 
 
 library
-  hs-source-dirs:    src/main
+  hs-source-dirs:    src
   exposed-modules:
   -- TODO Go To Declaration on Include Me
     Refer.IncludeMe,
