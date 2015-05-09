@@ -19,7 +19,10 @@ library
   -- TODO Go To Declaration on Include Me
     Refer.IncludeMe,
     Renaming.RenameMe,
-    Renaming.ImportSomething
+    Renaming.ImportSomething,
+    Renaming.RenameMeToo.Me,
+    Renaming.RenameMeToo.Name,
+    Renaming.RenameMeToo.Re
 
   other-modules:
   build-depends:       base >=4.6
